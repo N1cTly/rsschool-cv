@@ -1,8 +1,8 @@
 # __Kochatkov Timofei__
 ![img](/rsschool-cv/images/6htn2oFOkcA.jpg)
 ## Contacts 
-* Tel: +79999843644
-* Email: tim.kochatkov@gmail.com
+* Tel: [+79999843644](tel:+79999843644)
+* [Email](mailto:tim.kochatkov@gmail.com)
 * Discord: Jadidi'ah#5549
 ## About Me:
 I'm 24 years old. Man. Studied in University for 2 years, but leave and start work, now i want change my working direction.
