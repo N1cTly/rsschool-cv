@@ -21,35 +21,35 @@ Learning in RSSchool, and wish i will be developer as soon as possible.
 ## Code examples
 I don't have a lot of examples of code, but i do some code wars tasks so here the solutions 
 #### Kata 6 N-th Fibonacci
-`function nthFibo(n) {`
-  `let a = 0;`
-  `let b = 1;`
-  `for (let i = 1; i < n; i++) {`
-    `let c = a + b;`
-    `a = b;`
-    `b = c;`
-  `}`
-  `return a;`
-`}`
+`function nthFibo(n) {` 
+  `let a = 0;` 
+  `let b = 1;` 
+  `for (let i = 1; i < n; i++) {` 
+    `let c = a + b;` 
+    `a = b;` 
+    `b = c;` 
+  `}` 
+  `return a;` 
+`}` 
 #### Kata 6 Duplicate Encoder
-`function duplicateEncode(word){`
-  `let result = '';`
-  `word = word.toLowerCase();`
-  `for (let i = 0; i < word.length; i++){`
-    `for (let u = 0; u < word.length; u++){`
-      `if (u !== i){`
-        `if (word[u] === word[i]){`
-          `result = result + '\)';`
-          `break;`
-        `}`
-      `}`
-    `}`
-    `if(result.length === i){`
-      `result = result + '\(';`
-    `}`
-  `}`
-  `return result;`
-`}`
+`function duplicateEncode(word){` 
+  `let result = '';` 
+  `word = word.toLowerCase();` 
+  `for (let i = 0; i < word.length; i++){` 
+    `for (let u = 0; u < word.length; u++){` 
+      `if (u !== i){` 
+        `if (word[u] === word[i]){` 
+          `result = result + '\)';` 
+          `break;` 
+        `}` 
+      `}` 
+    `}` 
+    `if(result.length === i){` 
+      `result = result + '\(';` 
+    `}` 
+  `}` 
+  `return result;` 
+`}` 
 ## Experience
 I have no Experience in JS and Frontend developing, but i studied and have a good progress in it.
 ## English
