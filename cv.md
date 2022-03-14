@@ -51,7 +51,7 @@ I don't have a lot of examples of code, but i do some code wars tasks so here th
   `return result;`  
 `}`  
 ## Education and Experience
-I done Stage0 in RSSchool in 12.03.2022 and this is my [certificate](/rsschool-cv/images/certificate-Stage0.pdf)
+I done Stage0 in RSSchool in 12.03.2022 and this is my [certificate](https://app.rs.school/certificate/pii7pao9)
 And while i studied at Stage0, i build a [portfolio web page](https://rolling-scopes-school.github.io/n1ctly-JSFEPRESCHOOL/portfolio) 
 ## English
 I have basic level in English, some test say that my level is B1.
